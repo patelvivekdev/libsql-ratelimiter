@@ -1,7 +1,7 @@
 {
   "name": "libsql-ratelimiter",
   "description": "A simple rate limiter using libsql | turso",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "author": "Vivek Patel <me@patelvivek.dev>",
   "license": "MIT",

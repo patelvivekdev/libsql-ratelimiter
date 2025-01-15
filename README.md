@@ -2,6 +2,13 @@
 
 A flexible rate-limiting library built on top of libSQL, providing multiple algorithms (fixed window, sliding window, and token bucket) to control how frequently actions can be performed.
 
+<div align="center">
+<a href="https://www.npmjs.com/package/libsql-ratelimiter"><img src="https://img.shields.io/npm/v/libsql-ratelimiter"/><a>
+<a href="https://www.npmjs.com/package/libsql-ratelimiter"><img src="https://img.shields.io/npm/dm/libsql-ratelimiter"/><a>
+<a href="https://github.com/patelvivekdev/libsql-ratelimiter/actions/workflows/CI.yml"><img src="https://github.com/patelvivekdev/libsql-ratelimiter/actions/workflows/CI.yml/badge.svg"/><a>
+</div>
+<br>
+
 ## Installation
 
 ```bash
